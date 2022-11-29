@@ -1,0 +1,17 @@
+ {
+    "name": "Close tab opened by zoom meeting",
+    "description": "Close the url opened by zoom https://yourcompanyname.zoom.us/",
+    "version": "0.1",
+    "manifest_version": 3,
+    "background": {
+            "service_worker": "background.js",
+            "type": "module"
+    },
+    "icons": {
+        "16": "icon-16.png",
+        "128": "icon-128.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+ }
