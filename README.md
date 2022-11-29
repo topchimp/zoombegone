@@ -10,7 +10,7 @@ See the 'Loading an unpacked extension' section here [Chrome Extensions Developm
 
 ## Usage
 
-You'll see a coffe cup style icon on chrome and you can enable/disable manually
+You'll see a coffee cup style icon on chrome and you can enable/disable manually
 
 ## Contributing
 
